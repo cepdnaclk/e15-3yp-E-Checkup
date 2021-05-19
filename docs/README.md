@@ -9,7 +9,7 @@ title: E Checkup
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# E Checkup
 
 ---
 
@@ -22,42 +22,37 @@ title: E Checkup
 1. [Introduction](#introduction)
 2. [Solution Architecture](#solution-architecture )
 3. [Hardware & Software Designs](#hardware-and-software-designs)
-4. [Testing](#testing)
-5. [Detailed budget](#detailed-budget)
-6. [Conclusion](#conclusion)
-7. [Links](#links)
+4. [Links](#links)
 
 ---
 
 ## Introduction
 
- description of the real world problem and solution, impact
+This project is about making an online interface for routine medical checkups. Usually people are not happy with standing in a queue or waiting a long time in the hospital to see the doctor as well as doctors also need a most efficient and effective way to examine their patients. Mostly in routine medical checkups doctor needs a data of several biometric parameters of patient’s body. These data can be measured by some sensors and stored through our system.
+
+
+
+[Intro](data/videos/)
 
 ## Solution Architecture
 
- high level diagram + description
+This system allows you to measure biometric parameters such as pulse, breath rate, oxygen in blood, electrocardiogram signals, blood pressure, glucose levels. This information is used to monitor in real time the state of a user or to get sensitive data in order to be subsequently analyzed for medical diagnosis. Biometric information gathered can be wirelessly sent to the server and stored there , the data can be visualized in a tablet or smart phone by the patient thereafter the patient can send those data to doctor. The doctors can analyze those data and provide feedback to patients.
 
-## Hardware and Software Designs
+## Hardware and Software Designs  
+### Data Flow of System  
+![image](data/images/)  
 
- detailed designs with many sub-sections
+#### [Conecting ECG Sensor](data/videos/)     
+#### [Web Application Demonstration](data/videos/)
 
-## Testing
 
- testing done on hardware and software, detailed + summarized results
 
-## Detailed budget
 
- all items and costs
-
-| Item          | Quantity  | Unit Cost  | Total  |
-| ------------- |:---------:|:----------:|-------:|
-| Sample item   | 5         | 10 LKR     | 50 LKR |
-
-## Conclusion
-
- what was achieved, future developments, commercialization plans
-
-## Links
+## Links  
+### Documents
+- [Project Report](data/documents/)
+- [Project Proposal](data/documents/)  
+### Other Links  
 
 - [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
 - [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}

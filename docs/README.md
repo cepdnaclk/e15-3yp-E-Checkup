@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-3yp-project-template
-title:
+repository-name: e15-3yp-E-Checkup
+title: E Checkup
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -14,9 +14,9 @@ title:
 ---
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/15/366, THINESH S., [sathathinesh@gmail.com](mailto:sathathinesh@gmail.com)
+-  E/15/373, VAHEESAN R., [waga950924@gmail.com](mailto:waga950924@gmail.com)
+-  E/15/330, SATHURSAN K., [wdeva22@gmail.lk](mailto:wdeva22@gmail.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)

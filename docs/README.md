@@ -50,7 +50,7 @@ This system allows you to measure biometric parameters such as pulse, breath rat
 ## Links  
 ### Documents
 - [Project Report](data/documents/pro_report.pptx)
-- [Project Proposal](data/documents/ProjectProposalRevisionWorkshop - Form.docx)  
+- [Project Proposal](data/documents/ProjectProposal.docx)  
 ### Other Links  
 
 - <a href = "https://github.com/cepdnaclk/e15-3yp-E-Checkup" target = "_blank"> Project Repository </a>

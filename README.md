@@ -32,7 +32,7 @@ This project is about making an online interface for routine medical checkups. U
 
 
 
-[Intro](data/videos/CO321_Animation.mp4)
+[Intro](docs/data/videos/CO321_Animation.mp4)
 
 ## Solution Architecture
 
@@ -40,17 +40,17 @@ This system allows you to measure biometric parameters such as pulse, breath rat
 
 ## Hardware and Software Designs  
 ### Data Flow of System  
-![image](data/images/DataFlow.jpg)  
+![image](docs/data/images/DataFlow.jpg)  
     
-#### [Web Application Demonstration](data/WebApp.mp4)
+#### [Web Application Demonstration](docs/data/WebApp.mp4)
 
 
 
 
 ## Links  
 ### Documents
-- [Project Report](data/documents/pro_report.pptx)
-- [Project Proposal](data/documents/ProjectProposal.docx)  
+- [Project Report](docs/data/documents/pro_report.pptx)
+- [Project Proposal](docs/data/documents/ProjectProposal.docx)  
 ### Other Links  
 
 - <a href = "https://github.com/cepdnaclk/e15-3yp-E-Checkup" target = "_blank"> Project Repository </a>

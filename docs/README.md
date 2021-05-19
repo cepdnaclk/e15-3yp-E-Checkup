@@ -32,7 +32,7 @@ This project is about making an online interface for routine medical checkups. U
 
 
 
-[Intro](data/videos/)
+[Intro](data/videos/CO321_Animation.mp4)
 
 ## Solution Architecture
 
@@ -40,24 +40,23 @@ This system allows you to measure biometric parameters such as pulse, breath rat
 
 ## Hardware and Software Designs  
 ### Data Flow of System  
-![image](data/images/)  
-
-#### [Conecting ECG Sensor](data/videos/)     
-#### [Web Application Demonstration](data/videos/)
+![image](data/images/DataFlow.jpg)  
+    
+#### [Web Application Demonstration](data/WebApp.mp4)
 
 
 
 
 ## Links  
 ### Documents
-- [Project Report](data/documents/)
-- [Project Proposal](data/documents/)  
+- [Project Report](data/documents/pro_report.pptx)
+- [Project Proposal](data/documents/ProjectProposalRevisionWorkshop - Form.docx)  
 ### Other Links  
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+- <a href = "https://github.com/cepdnaclk/e15-3yp-E-Checkup" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-E-Checkup/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)

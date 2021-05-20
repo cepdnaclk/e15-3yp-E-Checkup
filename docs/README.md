@@ -51,8 +51,9 @@ This system allows you to measure biometric parameters such as pulse, breath rat
 ### Documents
 - [Project Report](data/documents/pro_report.pptx)
 - [Project Proposal](data/documents/ProjectProposal.docx)  
-### Other Links  
 
+
+### Other Links  
 - <a href = "https://github.com/cepdnaclk/e15-3yp-E-Checkup" target = "_blank"> Project Repository </a>
 - <a href = "https://cepdnaclk.github.io/e15-3yp-E-Checkup/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>

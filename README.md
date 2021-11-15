@@ -41,13 +41,12 @@ This system allows you to measure biometric parameters such as pulse, breath rat
 ## Hardware and Software Designs  
 ### Data Flow of System  
 ![image](docs/data/images/DataFlow.jpg)  
-    
+
 #### [Web Application Demonstration](docs/data/WebApp.mp4)
 
 
-
-
 ## Links  
+
 ### Documents
 - [Project Report](docs/data/documents/pro_report.pptx)
 - [Project Proposal](docs/data/documents/ProjectProposal.docx)  
